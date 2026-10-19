@@ -1,0 +1,24 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Firma: nunca subir claves ni contraseñas
+*.jks
+*.keystore
+*.p12
+key.properties
+
+# APK locales y temporales
+*.apk
+*.aab
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
